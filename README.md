@@ -1,20 +1,17 @@
-<p align="left"><sub>Menu</sub><br>
-<a href="https://linkedin.com/in/mleonard1616">LinkedIn ↗</a><br>
-<a href="mailto:mleonard1616@gmail.com">Email ↗</a>
-</p>
+#### Menu  
+[LinkedIn ↗](https://linkedin.com/in/mleonard1616)  
+[Email ↗](mailto:mleonard1616@gmail.com)
 
 ---
 
-I'm <b>Matt Leonard</b> — backend & data engineer focused on reliable, simple systems.
+I'm **Matt Leonard** — backend & data engineer focused on reliable, simple systems.
 
-I recently finished an internship at <b>Madhive</b>, building production data pipelines that power ad-budget analytics at scale.
-I like turning raw data into decisions and shipping tools that make other builders faster.
+I recently finished an internship at **Madhive**, building production data pipelines for ad-budget analytics at scale.  
+I like turning raw data into decisions and shipping tools that help other builders move faster.
 
-Projects: 
-<a href="https://ridecomparison.vercel.app">Rideshare Comparison ↗</a> · 
-<a href="https://github.com/mattleonard16?tab=repositories&q=recursive%20rumble">Recursive Rumble ↗</a> · 
-<a href="https://github.com/mattleonard16?tab=repositories&q=NFL">NFL Algorithm ↗</a>
+**Projects**  
+- [Rideshare Comparison ↗](https://ridecomparison.vercel.app)  
+- [Recursive Rumble ↗](https://github.com/mattleonard16?tab=repositories&q=recursive%20rumble)  
+- [NFL Algorithm ↗](https://github.com/mattleonard16?tab=repositories&q=NFL)
 
-<br>
-
-<a href="https://github.com/mattleonard16">View my work →</a>
+[View my work →](https://github.com/mattleonard16)
