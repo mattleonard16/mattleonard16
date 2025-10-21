@@ -18,7 +18,7 @@
 - Designed data quality filters and audit trails to ensure consistency across multi-year campaign data  
 - Improved performance and transparency of reporting tools used by internal sales and analytics teams  
 
-### Recent Launches
+### Recent Projects
 - <a href="https://ridecomparison.vercel.app">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
 - <a href="https://github.com/mattleonard16/recursive-rumble">Recursive Rumble</a> · Roblox-based educational roguelike teaching recursion concepts  
 - <a href="https://github.com/mattleonard16/nfl-algorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
@@ -26,7 +26,7 @@
 ### Engineering Focus
 - **Data Engineering:** ETL design, SQL pipelines, quality validation, and schema evolution  
 - **Backend Systems:** RESTful APIs, caching, concurrency, and reliability engineering  
-- **Languages & Tools:** Python, PHP, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git  
+- **Languages & Tools:** Python, PHP, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git, C , C++  
 
 
 ---
