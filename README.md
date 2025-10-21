@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mattleonard16.com"><img src="https://img.shields.io/badge/Portfolio-mattleonard16.com-0a2540?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/mleonard1616"><img src="https://img.shields.io/badge/LinkedIn-@mleonard1616-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/matthew-leonard1/"><img src="https://img.shields.io/badge/LinkedIn-@matthew--leonard1-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mleonard1616@gmail.com"><img src="https://img.shields.io/badge/Email-mleonard1616%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mattleonard16"><img src="https://img.shields.io/badge/GitHub-@mattleonard16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
