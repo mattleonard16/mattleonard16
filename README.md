@@ -1,19 +1,20 @@
-#### Menu  
-[LinkedIn ↗](https://www.linkedin.com/in/matthew-leonard1/)  
-[Email ↗](mailto:mleonard1616@gmail.com)
+<p align="left"><sub>Menu</sub><br>
+<a href="https://linkedin.com/in/mleonard1616">LinkedIn ↗</a><br>
+<a href="mailto:mleonard1616@gmail.com">Email ↗</a>
+</p>
 
 ---
 
-I'm **Matt Leonard** — a Computer Science & Engineering graduate passionate about backend systems, data pipelines, and infrastructure.
+I'm <b>Matt Leonard</b> — backend & data engineer focused on reliable, simple systems.
 
-I recently finished an internship at **Madhive**, where I built production data pipelines for ad-budget analytics supporting millions in campaign spend.  
-Outside of work, I create tools and projects that bridge data and engineering:
+I recently finished an internship at <b>Madhive</b>, building production data pipelines that power ad-budget analytics at scale.
+I like turning raw data into decisions and shipping tools that make other builders faster.
 
-- **[Recursive Rumble](https://github.com/mattleonard/recursive-rumble)** — a Roblox game teaching recursion through roguelike mechanics  
-- **[Rideshare Comparison](https://ridecomparison.vercel.app)** — real-time Uber/Lyft/taxi fare analyzer  
-- **[NFL Algorithm](https://github.com/mattleonard/nfl-algorithm)** — machine learning pipeline predicting player yardage and sportsbook value  
+Projects: 
+<a href="https://ridecomparison.vercel.app">Rideshare Comparison ↗</a> · 
+<a href="https://github.com/mattleonard16?tab=repositories&q=recursive%20rumble">Recursive Rumble ↗</a> · 
+<a href="https://github.com/mattleonard16?tab=repositories&q=NFL">NFL Algorithm ↗</a>
 
----
+<br>
 
-I’m driven by curiosity and simplicity — building systems that make complex data useful.  
-[View my work →](https://github.com/mattleonard16)
+<a href="https://github.com/mattleonard16">View my work →</a>
