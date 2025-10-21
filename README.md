@@ -28,9 +28,6 @@
 - **Backend Systems:** RESTful APIs, caching, concurrency, and reliability engineering  
 - **Languages & Tools:** Python, PHP, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git  
 
-### Off the Clock
-- Surfing, espresso tuning, and late-night debugging sessions with lo-fi playlists  
-- Exploring ways to make learning computer science more interactive and visual  
 
 ---
 
