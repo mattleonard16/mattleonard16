@@ -32,10 +32,6 @@
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2a5fff/mattleonard16" alt="Matt Leonard GitHub contribution chart" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&custom_title=GitHub%20Stats&line_height=26" alt="GitHub stats for Matt Leonard" height="170" />
 </p>
 
