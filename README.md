@@ -8,7 +8,21 @@
   <a href="https://github.com/mattleonard16"><img src="https://img.shields.io/badge/GitHub-@mattleonard16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><strong>Backend & data engineer focused on building scalable systems that turn raw data into reliable insight.</strong></p>
+<p align="center"><strong>Software engineer passionate about building impactful products and scalable systems.</strong></p>
+
+---
+
+### 💻 Roles You're Interested In
+
+**Full Stack Engineer** – Building complete web applications (Next.js, React, Tailwind, Postgres, Express).
+
+**Backend Engineer** – Designing APIs, databases, and data pipelines (Python, Node, SQL).
+
+**AI / Developer Tools Engineer** – Working on tools that improve developer workflows and productivity.
+
+**Data / Infrastructure Engineer** – Building scalable data systems and backend infrastructure.
+
+**Product-Focused Engineer** – Working at the intersection of engineering, design, and business impact.
 
 ---
 
@@ -23,10 +37,11 @@
 - <a href="https://github.com/mattleonard16/recursive-rumble">Recursive Rumble</a> · Roblox-based educational roguelike teaching recursion concepts  
 - <a href="https://github.com/mattleonard16/nfl-algorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
 
-### Engineering Focus
-- **Data Engineering:** ETL design, SQL pipelines, quality validation, and schema evolution  
-- **Backend Systems:** RESTful APIs, caching, concurrency, and reliability engineering  
-- **Languages & Tools:** Python, PHP, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git, C , C++  
+### Technical Expertise
+- **Full Stack Development:** React, Next.js, Node.js, Express, PostgreSQL, and modern web technologies
+- **Data Engineering:** ETL design, SQL pipelines, quality validation, and schema evolution
+- **Backend Systems:** RESTful APIs, caching, concurrency, and reliability engineering
+- **Languages & Tools:** Python, PHP, JavaScript/TypeScript, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git, C, C++  
 
 
 ---
@@ -35,4 +50,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&custom_title=GitHub%20Stats&line_height=26" alt="GitHub stats for Matt Leonard" height="170" />
 </p>
 
-<p align="center"><strong>Want to talk backend systems or data pipelines? <a href="mailto:mleonard1616@gmail.com">Let’s chat.</a></strong></p>
+<p align="center"><strong>Want to discuss engineering opportunities or collaborate on a project? <a href="mailto:mleonard1616@gmail.com">Let’s chat.</a></strong></p>
