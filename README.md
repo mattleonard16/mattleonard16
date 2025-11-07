@@ -8,21 +8,7 @@
   <a href="https://github.com/mattleonard16"><img src="https://img.shields.io/badge/GitHub-@mattleonard16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><strong>Software engineer passionate about building impactful products and scalable systems.</strong></p>
-
----
-
-### 💻 Roles You're Interested In
-
-**Full Stack Engineer** – Building complete web applications (Next.js, React, Tailwind, Postgres, Express).
-
-**Backend Engineer** – Designing APIs, databases, and data pipelines (Python, Node, SQL).
-
-**AI / Developer Tools Engineer** – Working on tools that improve developer workflows and productivity.
-
-**Data / Infrastructure Engineer** – Building scalable data systems and backend infrastructure.
-
-**Product-Focused Engineer** – Working at the intersection of engineering, design, and business impact.
+<p align="center"><strong>Software engineer passionate about full stack development, data systems, AI tools, and product-focused engineering.</strong></p>
 
 ---
 
