@@ -19,9 +19,8 @@
 - Improved performance and transparency of reporting tools used by internal sales and analytics teams  
 
 ### Recent Projects
-- <a href="https://ridecomparison.vercel.app">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
-- <a href="https://github.com/mattleonard16/recursive-rumble">Recursive Rumble</a> · Roblox-based educational roguelike teaching recursion concepts  
-- <a href="https://github.com/mattleonard16/nfl-algorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
+- <a href="https://github.com/mattleonard16/ridecomparsion">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
+- <a href="https://github.com/mattleonard16/nflalgorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
 
 ### Technical Expertise
 - **Full Stack Development:** React, Next.js, Node.js, Express, PostgreSQL, and modern web technologies
