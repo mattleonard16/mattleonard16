@@ -14,9 +14,9 @@
 
 ### Build Log
 - Recently wrapped up an internship at <code>@Madhive</code>, developing production-grade pipelines for ad-budget analytics across millions of campaigns  
-- Migrated Python ETL scripts to PHP for full integration into Madhive’s budget ingestion systems  
-- Designed data quality filters and audit trails to ensure consistency across multi-year campaign data  
-- Improved performance and transparency of reporting tools used by internal sales and analytics teams  
+- Migrated Python ETL scripts to PHP for full integration into Madhive’s budget algorithm
+- Designed data quality filters and went through unique id's to track and ensure consistency across multi-year campaign data  
+- Improved performance and transparency of reporting tools used by internal data and analytics teams  
 
 ### Recent Projects
 - <a href="https://github.com/mattleonard16/ridecomparsion">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
