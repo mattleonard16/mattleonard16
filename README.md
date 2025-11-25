@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&custom_title=GitHub%20Stats&line_height=26" alt="GitHub stats for Matt Leonard" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&line_height=26" alt="GitHub stats for Matt Leonard" height="170" />
 </p>
 
 <p align="center"><strong>Want to discuss engineering opportunities or collaborate on a project? <a href="mailto:mleonard1616@gmail.com">Let’s chat.</a></strong></p>
