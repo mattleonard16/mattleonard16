@@ -19,14 +19,16 @@
 - Improved performance and transparency of reporting tools used by internal data and analytics teams  
 
 ### Recent Projects
+- <a href="https://github.com/mattleonard16/taxhelper">TaxHelper</a> · personal tax-tracking dashboard with receipt scanning, LLM-powered categorization, and smart deduction discovery  
 - <a href="https://github.com/mattleonard16/ridecomparsion">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
 - <a href="https://github.com/mattleonard16/nflalgorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
 
 ### Technical Expertise
-- **Full Stack Development:** React, Next.js, Node.js, Express, PostgreSQL, and modern web technologies
+- **Full Stack Development:** React, Next.js, Node.js, Express, PostgreSQL, Prisma, and modern web technologies
 - **Data Engineering:** ETL design, SQL pipelines, quality validation, and schema evolution
-- **Backend Systems:** RESTful APIs, caching, concurrency, and reliability engineering
-- **Languages & Tools:** Python, PHP, JavaScript/TypeScript, SQL, Bash, CUDA, OpenMP, Roblox Lua, Git, C, C++  
+- **AI & Automation:** LLM integration, OCR pipelines (Tesseract.js), and ML-powered insights
+- **Backend Systems:** RESTful APIs, authentication (NextAuth), caching, concurrency, and reliability engineering
+- **Languages & Tools:** Python, PHP, JavaScript/TypeScript, SQL, Bash, CUDA, OpenMP, Git, C, C++  
 
 
 ---
