@@ -128,7 +128,9 @@ Personal tax-tracking dashboard with receipt scanning and LLM-powered categoriza
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&line_height=26" alt="GitHub stats for Matt Leonard" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&line_height=26" alt="GitHub stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattleonard16&layout=compact&theme=transparent&hide_title=true" alt="Top Languages" height="170" />
 </p>
 
-<p align="center"><strong>Want to discuss engineering opportunities or collaborate on a project? <a href="mailto:mleonard1616@gmail.com">Let’s chat.</a></strong></p>
+<p align="center">Want to chat about a project or opportunity? <a href="mailto:mleonard1616@gmail.com">Reach out.</a></p>
