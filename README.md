@@ -45,6 +45,35 @@ Real-time fare comparison across Uber, Lyft, and taxi with interactive route map
 - Interactive route mapping with real-time fare estimates
 - PostgreSQL + Prisma data layer with Redis caching
 
+#### [Team Network](https://myteamnetwork.com) &nbsp; <img src="https://img.shields.io/badge/Live-00c853?style=flat-square" alt="Live" /> &nbsp; <img src="https://img.shields.io/badge/Contributor%2FMaintainer-8B5CF6?style=flat-square" alt="Contributor/Maintainer" />
+
+Sports team management platform with payments and org management. &nbsp; [GitHub](https://github.com/MyTeamNetwork/TeamNetwork)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+- Live production SaaS with Stripe subscriptions + Stripe Connect for donations
+- Google OAuth, Row Level Security, and Resend transactional emails
+- React Native mobile app with Expo and Google Calendar sync
+
+#### [TaxHelper](https://github.com/mattleonard16/taxhelper)
+
+Personal tax-tracking dashboard with receipt scanning and LLM-powered categorization.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tesseract.js-1A1A2E?style=flat-square" alt="Tesseract.js" />
+</p>
+
+- OCR receipt scanning via Tesseract.js with automatic data extraction
+- LLM-powered expense categorization and smart deduction discovery
+
 ---
 
 <h3 align="center">Technical Stack</h3>
