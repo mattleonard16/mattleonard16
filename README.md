@@ -84,7 +84,6 @@ Personal tax-tracking dashboard with receipt scanning and LLM-powered categoriza
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
@@ -121,16 +120,12 @@ Personal tax-tracking dashboard with receipt scanning and LLM-powered categoriza
 
 <h3 align="center">Experience</h3>
 
-**Software Engineering Intern @ Madhive**
-- Built production ETL pipelines for ad-budget analytics across millions of campaigns
-- Migrated Python data workflows to PHP; designed quality validation for multi-year campaign data
+**Backend & Data Processing Intern @ Madhive** · Mountain View, CA · Aug 2025 – Oct 2025
+- Queried and analyzed large MySQL advertiser datasets to identify metric discrepancies impacting revenue reporting
+- Built Python workflows processing ~62K structured records per run, eliminating manual spreadsheet analysis
+- Implemented validation checks including row-count assertions, null-threshold guards, and schema enforcement to prevent reporting drift
+- Reduced investigation turnaround time from multi-day analysis to same-day resolution through workflow automation
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattleonard16&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&line_height=26" alt="GitHub stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattleonard16&layout=compact&theme=transparent&hide_title=true" alt="Top Languages" height="170" />
-</p>
 
 <p align="center">Want to chat about a project or opportunity? <a href="mailto:mleonard1616@gmail.com">Reach out.</a></p>
