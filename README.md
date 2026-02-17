@@ -8,28 +8,27 @@
   <a href="https://github.com/mattleonard16"><img src="https://img.shields.io/badge/GitHub-@mattleonard16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><strong>Software engineer passionate about full stack development, data systems, AI tools, and product-focused engineering.</strong></p>
+<p align="center"><strong>Full-stack engineer building ML pipelines, real-time web apps, and products people actually use.</strong></p>
 
 ---
 
-### Build Log
-- Recently wrapped up an internship at <code>@Madhive</code>, developing production-grade pipelines for ad-budget analytics across millions of campaigns  
-- Migrated Python ETL scripts to PHP for full integration into Madhive’s budget algorithm
-- Designed data quality filters and went through unique id's to track and ensure consistency across multi-year campaign data  
-- Improved performance and transparency of reporting tools used by internal data and analytics teams  
+<h3 align="center">Featured Projects</h3>
 
-### Recent Projects
-- <a href="https://github.com/mattleonard16/taxhelper">TaxHelper</a> · personal tax-tracking dashboard with receipt scanning, LLM-powered categorization, and smart deduction discovery  
-- <a href="https://github.com/mattleonard16/ridecomparsion">Rideshare Comparison</a> · real-time Uber/Lyft/taxi fare analyzer built with Next.js, OSRM, and Redis  
-- <a href="https://github.com/mattleonard16/nflalgorithm">NFL Algorithm</a> · ML pipeline predicting player yardage and sportsbook line value  
+_Coming soon..._
 
-### Technical Expertise
-- **Full Stack Development:** React, Next.js, Node.js, Express, PostgreSQL, Prisma, and modern web technologies
-- **Data Engineering:** ETL design, SQL pipelines, quality validation, and schema evolution
-- **AI & Automation:** LLM integration, OCR pipelines (Tesseract.js), and ML-powered insights
-- **Backend Systems:** RESTful APIs, authentication (NextAuth), caching, concurrency, and reliability engineering
-- **Languages & Tools:** Python, PHP, JavaScript/TypeScript, SQL, Bash, CUDA, OpenMP, Git, C, C++  
+---
 
+<h3 align="center">Technical Stack</h3>
+
+_Coming soon..._
+
+---
+
+<h3 align="center">Experience</h3>
+
+**Software Engineering Intern @ Madhive**
+- Built production ETL pipelines for ad-budget analytics across millions of campaigns
+- Migrated Python data workflows to PHP; designed quality validation for multi-year campaign data
 
 ---
 
