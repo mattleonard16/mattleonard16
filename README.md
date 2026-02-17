@@ -14,7 +14,36 @@
 
 <h3 align="center">Featured Projects</h3>
 
-_Coming soon..._
+#### [NFL Algorithm](https://github.com/mattleonard16/nflalgorithm) &nbsp; <img src="https://img.shields.io/badge/v2.1-blue?style=flat-square" alt="v2.1" />
+
+ML system that predicts NFL player performance and identifies sportsbook value bets.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+- Position-specific ML models trained on historical player data
+- Kelly Criterion bankroll optimization with **15.2% ROI** on value bets
+- Full-stack dashboard with FastAPI backend and Next.js frontend
+
+#### [Ride Comparison](https://github.com/mattleonard16/ridecomparsion)
+
+Real-time fare comparison across Uber, Lyft, and taxi with interactive route mapping.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" />
+</p>
+
+- Surge pricing comparison and best-time-to-ride recommendations
+- Interactive route mapping with real-time fare estimates
+- PostgreSQL + Prisma data layer with Redis caching
 
 ---
 
