@@ -47,7 +47,7 @@ Real-time fare comparison across Uber, Lyft, and taxi with interactive route map
 
 #### [Team Network](https://myteamnetwork.com) &nbsp; <img src="https://img.shields.io/badge/Live-00c853?style=flat-square" alt="Live" /> &nbsp; <img src="https://img.shields.io/badge/Contributor%2FMaintainer-8B5CF6?style=flat-square" alt="Contributor/Maintainer" />
 
-Sports team management platform with payments and org management. &nbsp; [GitHub](https://github.com/MyTeamNetwork/TeamNetwork)
+Sports team management platform with payments and org management. &nbsp; [GitHub](https://github.com/cicconel/teamnetwork)
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
