@@ -14,20 +14,21 @@
 
 <h3 align="center">Featured Projects</h3>
 
-#### [NFL Algorithm](https://github.com/mattleonard16/nflalgorithm) &nbsp; <img src="https://img.shields.io/badge/v2.1-blue?style=flat-square" alt="v2.1" />
+#### [Team Network](https://myteamnetwork.com) &nbsp; <img src="https://img.shields.io/badge/Live-00c853?style=flat-square" alt="Live" /> &nbsp; <img src="https://img.shields.io/badge/Contributor%2FMaintainer-8B5CF6?style=flat-square" alt="Contributor/Maintainer" />
 
-ML system that predicts NFL player performance and identifies sportsbook value bets.
+Sports team management platform with payments and org management. &nbsp; [GitHub](https://github.com/cicconel/teamnetwork)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
-- Position-specific ML models trained on historical player data
-- Kelly Criterion bankroll optimization with **15.2% ROI** on value bets
-- Full-stack dashboard with FastAPI backend and Next.js frontend
+- Live production SaaS with Stripe subscriptions + Stripe Connect for donations
+- Google OAuth, Row Level Security, and Resend transactional emails
+- React Native mobile app with Expo and Google Calendar sync
 
 #### [Ride Comparison](https://github.com/mattleonard16/ridecomparsion)
 
@@ -45,21 +46,20 @@ Real-time fare comparison across Uber, Lyft, and taxi with interactive route map
 - Interactive route mapping with real-time fare estimates
 - PostgreSQL + Prisma data layer with Redis caching
 
-#### [Team Network](https://myteamnetwork.com) &nbsp; <img src="https://img.shields.io/badge/Live-00c853?style=flat-square" alt="Live" /> &nbsp; <img src="https://img.shields.io/badge/Contributor%2FMaintainer-8B5CF6?style=flat-square" alt="Contributor/Maintainer" />
+#### [NFL Algorithm](https://github.com/mattleonard16/nflalgorithm) &nbsp; <img src="https://img.shields.io/badge/v2.1-blue?style=flat-square" alt="v2.1" />
 
-Sports team management platform with payments and org management. &nbsp; [GitHub](https://github.com/cicconel/teamnetwork)
+ML system that predicts NFL player performance and identifies sportsbook value bets.
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-- Live production SaaS with Stripe subscriptions + Stripe Connect for donations
-- Google OAuth, Row Level Security, and Resend transactional emails
-- React Native mobile app with Expo and Google Calendar sync
+- Position-specific ML models trained on historical player data
+- Kelly Criterion bankroll optimization with **15.2% ROI** on value bets
+- Full-stack dashboard with FastAPI backend and Next.js frontend
 
 #### [TaxHelper](https://github.com/mattleonard16/taxhelper)
 
